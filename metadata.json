@@ -1,0 +1,10 @@
+{
+  "name": "Myra - Human-like Voice & AI Companion",
+  "description": "Meet Myra, your friendly, warm, and natural conversational AI companion with real-time cute girl voice calling, multi-language support (English, Hindi, Hinglish), notes, tasks, and memory.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
